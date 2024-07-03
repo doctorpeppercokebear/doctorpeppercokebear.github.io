@@ -143,16 +143,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/doctorpeppercokebear" 
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
