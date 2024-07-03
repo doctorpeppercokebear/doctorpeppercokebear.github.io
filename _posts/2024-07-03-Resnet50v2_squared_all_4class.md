@@ -2,7 +2,7 @@
 layout: single
 title:  "Resnet50v2_squared_all_4class"
 categories: jupyter
-tag: [python, blog, jekyll]
+tag: [python, blog, image classcification]
 toc: true
 author_profile: false
 ---
